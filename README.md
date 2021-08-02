@@ -2,7 +2,7 @@
 
 The Android application in this repository and its corresponding tutorials will help you quickly and easily onboard to Visual Studio App Center.
 
-## About this repository
+## About this repository --Jing Zhou
 
 The App Center SDK modules are already integrated within the application. Simply follow the tutorials to learn how to use each service.
 
